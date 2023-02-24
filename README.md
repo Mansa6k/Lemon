@@ -1,4 +1,4 @@
-Forecasting Net Prophet
+# Forecasting Net Prophet
 
 This project focuses on using Facebook Prophet library to perform time series forecasting on MercadoLibre's stock price and sales data.
 
