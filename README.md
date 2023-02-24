@@ -12,7 +12,7 @@ The following technologies are used in this application:
 * Prophet
 * datetime
 * Matplotlib
-* 
+
 # Installation Guide
 To install the necessary packages, run the following commands in your terminal:
 
